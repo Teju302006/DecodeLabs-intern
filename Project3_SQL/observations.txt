@@ -1,0 +1,7 @@
+1. SQL SELECT query was used to retrieve records.
+2. WHERE clause filtered records with profit greater than 100.
+3. ORDER BY sorted sales in descending order.
+4. COUNT calculated total records.
+5. SUM calculated total sales.
+6. AVG calculated average profit.
+7. GROUP BY analyzed sales across markets and product types.
