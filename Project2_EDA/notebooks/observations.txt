@@ -1,0 +1,5 @@
+1. Sales vary significantly across different markets.
+2. Certain product types generate higher sales than others.
+3. Outliers are present in both Sales and Profit columns.
+4. Sales distribution is not uniform.
+5. Some variables show positive correlation with Sales and Profit.
